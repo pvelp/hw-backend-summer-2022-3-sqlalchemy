@@ -1,4 +1,4 @@
-user_token: OTY3NmVjYWYtZTJhNC00NzNhLTgwM2YtZGY3OTBkYTM3YWFhXzIyMDg=
+user_token: OTY3NmVjYWYtZTJhNC00NzNhLTgwM2YtZGY3OTBkYTM3YWFhXzU1OTA=
 
 session:
   key: CaY5iCkYtN7DqXdiYK1BvmGrQuaSA4Tl4bEk9my0jc0=
@@ -12,7 +12,7 @@ database:
   password: kts_pass
   database: kts
 bot:
-  token: dsdfsdvsdv
+  token: token
   group_id: 1
 
 
